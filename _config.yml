@@ -35,6 +35,7 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 markdown: kramdown
 
