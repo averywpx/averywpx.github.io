@@ -38,9 +38,9 @@ logo: /Users/wpx/Documents/code/web/web-git-batch/web-blog/assets/img/iShot_2023
 
 #theme: minima
 theme: jekyll-theme-minimal
-plugins:
+# plugins:
   # - jekyll-feed
-  - jekyll-remote-theme
+  # - jekyll-remote-theme
 
 markdown: kramdown
 
