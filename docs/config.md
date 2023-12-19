@@ -267,7 +267,7 @@ To set an image manually, you have to provide an URL to the author's `picture` k
 ~~~yml
 # file: `_config.yml`
 author:
-  picture:  /assets/img/me.jpg
+  picture:  /assets/img/blog/caleb-george.jpg
 ~~~
 
 If you'd like to provide multiple versions for screens with different pixel densities,
