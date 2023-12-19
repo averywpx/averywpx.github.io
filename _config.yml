@@ -53,8 +53,8 @@ menu:
   #   url:               /example/
   # - title:             Documentation
   #   url:               /docs/
-  # - title:             About
-  #   url:               /about/
+  - title:             About
+    url:               /about/
   - title:             Research Interest
     url:               /research/
   - title:             CV
@@ -76,7 +76,7 @@ menu:
 copyright:             © 2023 Peixin Wang
 
 # Format of the permalinks
-permalink:             /:categories/:year-:month-:day-:title/
+# permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
@@ -295,18 +295,18 @@ hydejack:
 # Collections
 # ----------------------------------------------------------------------------------------
 
-collections:
-  featured_categories:
-    permalink:         /:name/
-    output:            true
+# collections: ...
+#   featured_categories:
+#     permalink:         /:name/
+#     output:            true
 
-  featured_tags:
-    permalink:         /tag-:name/
-    output:            true
+#   featured_tags:
+#     permalink:         /tag-:name/
+#     output:            true
 
-  projects:
-    permalink:         /projects/:path/
-    output:            true
+#   projects:
+#     permalink:         /projects/:path/
+#     output:            true
 
 
 # File inclusion/exclusion
@@ -409,7 +409,7 @@ jekyll_compose:
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/sidebar-bg.png
+        path: /assets/img/sidebar-bg.jpg
     posts:
       layout: post
       description: > 
