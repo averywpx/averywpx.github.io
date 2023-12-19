@@ -55,12 +55,12 @@ menu:
   #   url:               /docs/
   - title:             About
     url:               /about/
-  - title:             Research Interest
-    url:               /research/
-  - title:             CV
-    url:               /cv/
-  - title:             Personal
-    url:               /personal/
+  # - title:             Research Interest
+  #   url:               /research/
+  # - title:             CV
+  #   url:               /cv/
+  # - title:             Personal
+  #   url:               /personal/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
