@@ -300,10 +300,10 @@ It consists of the name of the social network as key and your username within th
 
 ~~~yml
 # file: `_config.yml`
-author:
-  social:
-    twitter: qwtel
-    github:  qwtel
+# author:
+#   social:
+#     twitter: qwtel ...
+#     github:  qwtel
 ~~~
 
 Check out [`authors.yml`][authors] to see which networks are available.
@@ -312,11 +312,11 @@ You can also follow the steps [here](advanced.md) to add your own social media i
 You can change the order in which the icons appear by moving lines up or down, e.g.
 
 ~~~yml
-# file: `_config.yml`
-author:
-  social:
-    github:  qwtel # now github appears first
-    twitter: qwtel
+# # file: `_config.yml`
+# author:
+#   social:
+#     github:  qwtel # now github appears first
+#     twitter: qwtel
 ~~~
 
 To get an overview of which networks are available and how a typical username in that network looks like,
