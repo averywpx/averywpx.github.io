@@ -144,8 +144,8 @@ In order to use the `list` or `grid` layout add the following front-matter to a 
 
 ~~~yml
 ---
-layout: list # or `grid`
-title:  Home
+# layout: list # or `grid` ...
+# title:  Home
 ---
 ~~~
 
