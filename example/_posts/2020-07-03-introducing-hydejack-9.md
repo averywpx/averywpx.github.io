@@ -17,14 +17,18 @@ I was borned and stayed in Fuzhou until 10th grade. I finished my high school in
 
 
 ## Personal Interests:
-Books:
+### Books:
+
   [*Philosophy, Volume 1*](https://www.goodreads.com/book/show/17303798-philosophy-volume-1) by Karl Jasper
+
   [*The Life of the Mind*](https://en.wikipedia.org/wiki/The_Life_of_the_Mind) by Hannah Arendt
 
-Music:
+### Music:
+
   [*Tchaikovsky’s Piano Concerto No. 1*](https://www.youtube.com/watch?v=2DmfJu3oNDM) by Martha Argerich or Yuja Wang
 
-Movie:
+### Movie:
+
   [*Kung Fu Hustle*](https://en.wikipedia.org/wiki/Kung_Fu_Hustle) by Stephen Chow and other movies he directed
 
 
