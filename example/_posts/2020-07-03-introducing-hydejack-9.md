@@ -17,6 +17,7 @@ I was borned and stayed in Fuzhou until 10th grade. I finished my high school in
 
 
 ## Personal Interests:
+
 ### Books:
 
   [*Philosophy, Volume 1*](https://www.goodreads.com/book/show/17303798-philosophy-volume-1) by Karl Jasper
@@ -34,7 +35,7 @@ I was borned and stayed in Fuzhou until 10th grade. I finished my high school in
 
 
 
-Version 9 is the most complete version of Hydejack yet.
+<!-- Version 9 is the most complete version of Hydejack yet.
 {:.lead}
 
 [Modernized](#linking-in-style) [design](#whats-in-the-cards), [big headlines](#ready-for-the-big-screen), big new features: [Built-In Search](#built-in-search), [Sticky Table of Contents](#sticky-table-of-contents), and [Auto-Hiding Navbar](#auto-hiding-navbar). That [and more](#and-much-more) is Hydejack 9.
@@ -108,6 +109,6 @@ The PRO Version is scheduled to release on July 7th on Gumroad. Pre-Orders are o
 [^2]:
       Search was mainly tested for English and German. Please let me know about issues in other languages. 
       While I've tried to find a multi-language solution, most showed drastically worse  results for the English base case.
-      If you're technically inclined, you can adopt the code located in `_includes/js/search-worker.js` to your needs.
+      If you're technically inclined, you can adopt the code located in `_includes/js/search-worker.js` to your needs. -->
 
 
